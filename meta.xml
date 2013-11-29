@@ -1,0 +1,7 @@
+<meta>
+    <info author="Funstein" version="1.0" name="flashbang" description="Flashbang script by Funstein." type="script" />
+
+	<script src="client.lua" type="client" />
+	<file src="bang.mp3" />
+	<min_mta_version client="1.3.1" />
+</meta>
